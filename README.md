@@ -29,6 +29,8 @@ Praticar **lógica de programação**, entrada e saída de dados, operadores e *
  4. Execute o programa:
    python calculadora.py
 
+---
+
 ## 📚 Aprendizado
 - Manipulação de variáveis  
 - Soma de valores e cálculo de saldo  
