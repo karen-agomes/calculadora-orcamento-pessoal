@@ -3,7 +3,7 @@
 ---
 
 ## 🗒️ Descrição
-Aplicação simples em **Python** para organizar **renda e despesas mensais**, permitindo que o usuário visualize o **saldo final do mês** e receba mensagens de feedback sobre seu orçamento.
+Aplicação simples em **Python** para organizar **renda e despesas pessoais**, permitindo que o usuário visualize o **saldo final do mês** e receba mensagens de feedback sobre seu orçamento.
 
 ---
 
