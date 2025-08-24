@@ -20,6 +20,15 @@ Praticar **lógica de programação**, entrada e saída de dados, operadores e *
 
 ---
 
+## 🚀 Como usar
+ 1. Certifique-se de ter o Python instalado na sua máquina.
+ 2. Clone este repositório:
+    git clone https://github.com/karen-agomes/calculadora-orcamento-pessoal.git
+ 3. Entre na pasta do projeto:
+    cd calculadora-orcamento-pessoal
+ 4. Execute o programa:
+   python calculadora.py
+
 ## 📚 Aprendizado
 - Manipulação de variáveis  
 - Soma de valores e cálculo de saldo  
